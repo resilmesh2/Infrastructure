@@ -4,3 +4,6 @@
 [submodule "IoT-Domains"]
 	path = IoT-Domains
 	url = https://github.com/resilmesh2/IoT-Domains.git
+[submodule "Domains"]
+	path = Domains
+	url = https://github.com/resilmesh2/Domains.git
