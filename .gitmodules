@@ -1,0 +1,3 @@
+[submodule "IT-Domains"]
+	path = IT-Domains
+	url = https://github.com/resilmesh2/IT-Domains.git
